@@ -20,4 +20,4 @@
 - Get an internship
 
 ## 📫 Connect with me
-- GitHub: https://github.com/Bhavithavaranasi
+- GitHub: https://github.com/VaranasiBhavitha
