@@ -2,7 +2,7 @@
 
 🎓 BTech Student  
 💻 Aspiring Software Developer  
-🌱 Currently learning Git, Python & Web Development  
+🌱 Currently learning Git 
 
 ## 🔧 Skills
 - Programming:Java (Basics)
@@ -10,9 +10,8 @@
 - Tools: Git, GitHub
 
 ## 📚 What I'm Learning
-- Java,python
+- Java
 - Git & GitHub
-- Web Development
 
 ## 🚀 Goals
 - Build real-world projects
